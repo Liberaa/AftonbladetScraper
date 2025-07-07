@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn.lock
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Jupyter & IPython
+.ipynb_checkpoints/
+.history
+
+# Environment
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and debug
+*.log
+
+# Output files
+scrape.txt
+ai_results.json
+
+# VSCode and JetBrains IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS backups
+*.swp
+*~
